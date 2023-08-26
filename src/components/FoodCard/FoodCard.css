@@ -1,0 +1,18 @@
+/* .css-card {
+    background-color: rgb(250, 209, 209);
+} */
+
+.css-card img {
+    padding-top: 7px;
+    border-radius: 15px;
+}
+
+.css-card {
+    /* color: black; */
+    text-align: center;
+}
+
+.css-card button {
+    background-color: wheat;
+    color: black
+}
